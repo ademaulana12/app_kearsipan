@@ -1,5 +1,5 @@
 ##########################
-Apa itu aplikasi kearsipan
+Apa aplikasi kearsipan
 ##########################
 
 Aplikasi kearsipan adalah aplikasi untuk menyimpan surat yang masuk dan keluar untuk disimpan secara rapih.
